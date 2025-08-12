@@ -1,0 +1,5 @@
+train: C:/Users/manus/Downloads/vehicle/train/images
+val: C:/Users/manus/Downloads/vehicle/val/images
+
+nc: 4
+names: ['car', 'bus', 'motorbike', 'truck']
